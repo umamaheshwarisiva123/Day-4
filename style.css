@@ -1,0 +1,15 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 42px 50px;
+}
+
+button{
+    margin: 6px;
+    padding: 12px;
+    color: blueviolet;
+}
+
+li{
+    margin: 10px;
+    font-size: 20px;
+}
