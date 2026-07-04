@@ -1,0 +1,12 @@
+body{
+    font-family: playfair display, serif;
+    font-size: 25px;
+}
+.active {
+  color: yellow;
+  
+}
+.toggle{
+    background-color: black;
+    color: white;
+}
